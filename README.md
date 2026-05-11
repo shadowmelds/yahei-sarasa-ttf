@@ -1,6 +1,6 @@
 # 介绍
 
-根据项目 [ZH-Font-Replacement](https://github.com/ReRokutosei/ZH-Font-Replacement) 将更纱黑体的信息改为微软雅黑和 Segoe UI，用来替换 Windows 系统的默认字体。
+根据项目 [ZH-Font-Replacement](https://github.com/ReRokutosei/ZH-Font-Replacement) 将 更纱黑体 UI SC 的信息改为微软雅黑和 Segoe UI，用来替换 Windows 系统的默认字体。
 
 根据[这篇帖子](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1960120&extra=page%3D1&page=1)补充了：
 
